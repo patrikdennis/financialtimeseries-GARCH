@@ -15,3 +15,5 @@ The following R packages are required to run the scripts in this repository:
 - `rmgarch`
 - `qqplotr`
 
+## Required Data
+- denmark_covid_logrets.csv
