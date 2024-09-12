@@ -17,3 +17,4 @@ The following R packages are required to run the scripts in this repository:
 
 ## Required Data
 - denmark_covid_logrets.csv
+- testdata.csv
