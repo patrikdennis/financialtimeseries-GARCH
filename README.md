@@ -1,5 +1,7 @@
 # financialtimeseries-project2
 
+## NOTE: THIS PROJECT IS UNDER DEVELOPMENT AND REFINING SOME DETAILS 
+
 See results.pdf for the problems solved.
 
 ## Dependencies
